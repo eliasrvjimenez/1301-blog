@@ -11,6 +11,7 @@ export const Nav = styled.nav`
  padding: 0 ;
  z-index: 12;
  width:100%;
+ position:fixed;
 `;
 
 export const NavLink = styled(Link)`
