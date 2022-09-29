@@ -13,11 +13,14 @@ function App() {
   return (
   <Router>
    <NavBar />
+   <div className="page-holder">
+
    <Routes>
      <Route path='/1301-blog' exact element={<Home />} />
-     <Route path='/1301-blog/blogs' element={<Blogs/>} />
+     <Route path='/blogs' element={<Blogs/>} />
    </Routes>
-   <Footer />
+      <Footer />
+   </div>
    </Router>
   );
 }
