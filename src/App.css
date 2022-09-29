@@ -83,3 +83,31 @@ li{
  font-family: monospace;
 
 }
+
+#homepagetext{
+ text-align: center;
+ align-items: center;
+ font-family: monospace;
+ justify-content:center;
+ float: center;
+ justify-items:center;
+ display: grid;
+ 
+}
+
+.smallerimg{
+ width:200px;
+ height:200px;
+ justify-self: center;
+ align-self: center;
+ padding: 1vh;
+}
+.blogpage{
+ display: grid;
+ grid-template-columns: 1fr, 2fr, 2fr, 2fr, 1fr;
+} 
+.blogpost{
+ display: grid;
+ grid-column-start: 1;
+ grid-column-end: 4;
+} 
