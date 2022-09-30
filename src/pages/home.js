@@ -3,7 +3,7 @@ import faceimg from './faceimg.png'
 const Home = () => {
  return (
   <div className= "page-item">
-       <img className="smallerimg " src={faceimg}></img>
+       <div className="centerimg"><img className="smallerimg"src={faceimg}></img></div>
   <br />
      <h1 className="header-properties"> Welcome to Elias' Personal Narrative Blog! </h1>
       <p> <em>Elias Vera-Jimenez (He/Him)</em> is a first-year College of Liberal 

@@ -42,20 +42,11 @@
   }
 }
 
-.blogpost{
- border-radius: 10px;
- border-color: gray;
-}
-
 li{
  float:left;
  align-items:center;
 }
-.navbar-brand{
- float:right;
- padding: 8px;
- 
-}
+
 .navbar-item{
  float: left;
  display:block;
@@ -88,13 +79,22 @@ li{
 .smallerimg{
  width:200px;
  height:200px;
- position:relative;
- top :30%;
- left:50%;
- transform:translate(-50%,-50%);
- margin-bottom: 25px;
 }
+.centerimg{
+ display: flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
 
+}
+.giveitaborder{
+ border-color: black;
+ border-radius: 0px;
+}
+.smallimg{
+ width:640px;
+ height:400px;
+}
 .page-holder{
  display: grid;
  grid-template-columns: auto 70% auto ;
