@@ -4,9 +4,9 @@ import digiimg from './negative-space-digital-clock-desk-notepad-plant-julian-ba
 const Blogs =  () => {
   return(
   <div className="page-item">
-   <h1 className="header-properties"> Post One</h1>
+   <h1 className="header-properties"><strong>Overloaded to Optimistic: The need for some time alone</strong> </h1>
    <div className="centerimg"><img className="smallimg" src={digiimg} alt="An image of a computer displaying the time in a dimly lit room"></img>
-   <p> <em>By Julia Blanchet</em></p></div>
+   <p> <em>Image By Julia Blanchet</em></p></div>
      <br/>
  <p> &emsp; &emsp; I am not a writer. At least, not at heart. Down to the bone, I have always 
    been a more logic-oriented person, and creativity was never a strong suit of 
