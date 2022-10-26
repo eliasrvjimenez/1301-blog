@@ -4,7 +4,7 @@ import NavBar from './components/index';
 import { BrowserRouter as Router, Routes, Route}
       from 'react-router-dom';
 import Home from './pages/home';
-import Blogs from './pages/blogs';
+import {Blogs,Blog2} from './pages/blogs';
 import Footer from "./footer.js";
 
 
@@ -17,7 +17,8 @@ function App() {
 
    <Routes>
      <Route path='/1301-blog' exact element={<Home />} />
-     <Route path='/blogs' element={<Blogs/>} />
+     <Route path='/blog-1' element={<Blogs/>} />
+     <Route path='/blog-2' element={<Blog2/>}/>
    </Routes>
       <Footer />
    </div>

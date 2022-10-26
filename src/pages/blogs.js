@@ -1,11 +1,11 @@
 import React from 'react';
-import digiimg from './negative-space-digital-clock-desk-notepad-plant-julian-bachlet-thumb-1.jpg';
+import digiimg from './negative-space-digital-clock-desk-notepad-plant-julian-bachlet-thumb-1.jpeg';
 
 const Blogs =  () => {
   return(
   <div className="page-item">
-   <h1 className="header-properties"><strong>Overloaded to Optimistic: The need for some time alone</strong> </h1>
-   <div className="centerimg"><img className="smallimg" src={digiimg} alt="An image of a computer displaying the time in a dimly lit room"></img>
+   <h1 className="header-properties"><strong>Blog 1: Overloaded to Optimistic: The need for some time alone</strong> </h1>
+   <div className="centerimg"><img className="smallimg" src={digiimg} alt="A computer displaying the time in a dimly lit room"></img>
    <p> <em>Image By Julia Blanchet</em></p></div>
      <br/>
  <p> &emsp; &emsp; I am not a writer. At least, not at heart. Down to the bone, I have always 
@@ -202,5 +202,103 @@ I can’t even begin how much I admire this man, but to put it plainly,
 );
 };
 
-export default Blogs
+const Blog2 = () => {
+  return(
+    <div className="page-item">
+      <h1 className="header-properties"><strong>Blog 2: What Makes a Writer? </strong></h1>
+      <div className="centerimg"><img className="smallimg" src="" alt="image goes here. (when i put it here)"></img>
+      <p><em></em></p></div>
+      <br/>
+      <p>&emsp; &emsp;
+Writing is the act of pushing thoughts, ideas, and knowledge into a readable, storable format, whether that be on paper or digitally. 
+The idea of writing is a concept known to almost all, but What about a writer, is the question I ask myself. If everyone can write, what 
+makes someone a true writer? Not just someone who can type or print words on to paper with a pencil, but someone who can create stories, 
+can share ideas and views, and can spread information to the public and the people around them. Those are things that a writer does, but it
+ gives them the ability to do just that?
+</p>
+<br/>
+<h3> <em> To Start, </em> </h3>
+<p>&emsp; &emsp;
+The first thing for me that comes to mind is their ability to use language, and take advantage of the many diverse forms of language there 
+are in the world. There are many multilingual people who are writers, and what makes them fantastic writers is their ability to use their 
+vast knowledge of their own language and other languages to give their stories more meaning, expression, and accessibility. Reading the 
+average piece of scholarly literature can be difficult for many people, not because it is written poorly or is grammatically incorrect, 
+but because the work often speaks in a way that can be unclear to the ones reading it, if they do not have the same vocabulary as the 
+ones who wrote it. Those with diverse backgrounds or knowledge of other languages often have the ability to see from the viewpoint of 
+their reader, and can tell what should be a part of their work, and what shouldn’t. 
+</p>
+<p>&emsp; &emsp;
+These abilities are what I consider to be tools that allow a writer to become an interpreter to their own knowledge, and to find a way to
+ make it more accessible to all people, not just to people on their level of intelligence.  Some examples of tools are different language’s
+  abilities to show expression. The English language itself is not a bad standard, but it lacks the ability to often find a way to show expression
+   without using some random fifteen-letter word. Languages such as Spanish and French have expressions such as: Coup de grâce and Voilà in french; 
+   and Anteayer, meaning the day before yesterday, and No hay dos sin tres, which means that everything that happens twice happens again. For a lot of 
+   these simple expressions, a whole sentence of words is needed to show the same amount of expression in English.
+</p>
+<br/>
+<h3><em>Code-Meshing & Writing </em></h3>
+<p> &emsp; &emsp;
+The tools that I showed above are a good example of what Scholar Vershawn Ashanti Young calls <em>Code Meshing</em> in his piece “Should writers 
+use they own English”. Code meshing, according to young, is the idea of using different dialects and languages as a tool to show expression and bring
+ more life to text and writing as a whole, as well as to bring more diversity to one's writing in general(Young). I personally like the idea of code meshing, 
+ because it allows for more freedom when it comes to writing, rather than just writing in the standard, boring English format. Don’t get me wrong, I appreciate
+  the standard English format for writing and reading, it can just get incredibly dull after a certain point, not just for reading, but for writing as well. 
+  With code meshing, a writer doesn’t have to think about what type of big word they should use in order to convey feeling or to give a visual image of what the
+  reader should see or think, they just have to use the devices given by other languages and dialects in order to achieve their goal. 
+</p>
+<p> &emsp; &emsp;
+A good example of code-meshing can be found in two other writers, Amy Tan, author and contributor to over 300+ articles and books, and Robin Kimmerer, who is not 
+a dedicated writer, but a Professor of Environmental and Forest biology. Tan often uses forms and grammatical devices from her mother’s form of English and her 
+native tongue. Many find Tan’s mother’s form of English to be “broken”, but Tan knows that her mother is still able to understand the entirety of English and 
+whatever she reads, but chooses to stick to the structure of speaking that she is used to using in her native tongue. From this, Tan finds that she too has a 
+better time writing in a similar structure while writing her articles and books, which she does by just making her writing simpler and easier to understand. 
+Although she has a major in English, she chooses not to write in a high-level, scholarly way. Instead, she chooses to stick to a simpler form of writing, so much 
+so that even her mother has a far better time reading her daughter's work compared to anything else(Tan). I have to say that I agree, after reading Tan’s 
+<em>Mother Tongue, </em> I appreciate her form of writing far more than other forms, because even though her work was long, it wasn’t difficult to comprehend 
+and understand. 
+</p>
+<p>&emsp; &emsp;
+Kimmerer is not a dedicated writer and author, but she still had knowledge and ideas to pass on, that knowledge being about how the Natives of America would 
+use special pronouns to refer to nature and animals, which I found to be interesting. She pointed out that animals and nature are often just referred to as 
+<em>it,</em> which dehumanizes them (Kimmerer). I must say that I agree, and like the idea of using native forms of pronouns and their use of language to view 
+nature as something other than it<em>,</em> give us as humans the ability to sympathize with nature as a whole, more. 
+</p>
+<p>&emsp; &emsp;
+While Code meshing is a good example of what <em>tools</em> a writer can use, what gives them the ability to write stories? For Amy Tan, she describes it 
+as a love for language, and a drive to create visuals and convey feelings to others (Tan). In short, it is a form of expression to her. She writes stories in 
+order to make it so she can express certain feelings and images to those who read her work, as well as convey thoughts and ideas to them as well. I must say that
+ this is something I had never truly thought about before. I have come up with my own ideas and stories in my head, and have had thoughts about giving these 
+ stories to others through the form of writing, but have never truly committed to it. Is it this that holds me back from being a writer?
+</p>
+<p>&emsp; &emsp;
+I often don’t consider myself to be a writer, often because I see myself as a person who works in a field that involves a massive amount of <em>Standard </em>
+writing, i.e writing in english or some other language besides a programming one. Now I can say that I didn’t see myself as a person who works in a field of 
+writing, but that is no longer the case. As I learned more about my own career path and interests I learned about how much writing truly goes into the process.
+ While most people consider writing to be creating books and articles, for me, it will be writing <em>Documentation. </em>Yes, in Computer Science, Documentation
+  is everything. It is how you show others what your program–-your work even does. It is a way to pass on knowledge of tools and methods of creating programs that
+   are more efficient than ways they have been created in the past. In a sense, it is similar to Tan’s definition of writing, a way of conveying ideas and visuals
+    on how something can be used, and can be written.
+</p>
+<p>&emsp; &emsp;
+Writing has always been used as a form of communication, parallel to the way that we speak. Since the discovery of writing, humanity has been able to advance far
+ beyond what was capable in the world just because ideas and thoughts were able to be stored for later use, allowing others to bounce off of whatever they find in
+  text in order to come up with thoughts and concepts on their own. Knowledge of civilizations has been allowed to grow and continue existing because the knowledge
+   from prior civilizations and generations has been transcribed so that later generations could find it and use it as a basis for their own lives. It is writing 
+   and language as a whole that has allowed humanity to grow to what it is now. In order to have writing, however, humanity needs writers.
+</p>
+<p>&emsp; &emsp;
+In my personal experience, I can say that I am a writer, since I have used writing and language as a tool in order to convey thoughts and ideas, and to communicate
+ feelings and visuals of ideas I have come up with. So, What makes a writer? For me, it is someone who uses language and writing in a way that not only benefits 
+ them, but also those who read their work. Writers are people who know how to use the tools and knowledge of language that is given to them to spread more 
+ knowledge and ideas to those around them, and they do it not because they have to, but because they want to write, and love doing it.
+</p>
+    </div>
+
+
+
+
+  );
+};
+
+export {Blogs,Blog2}
 

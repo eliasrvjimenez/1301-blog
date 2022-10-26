@@ -24,7 +24,10 @@ export const NavLink = styled(Link)`
  height: 100%;
  &.active{
   color: lightgray;
-  background-color: #5D1613;
+  background-image: linear-gradient(rgb(0 0 0/30%) 0 0);
+}&:hover{
+  color: lightgray;
+  background-image: linear-gradient(rgb(0 0 0/30%) 0 0);
 }
 `;
 
