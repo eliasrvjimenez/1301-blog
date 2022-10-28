@@ -1,12 +1,16 @@
 import React from 'react';
 import digiimg from './negative-space-digital-clock-desk-notepad-plant-julian-bachlet-thumb-1.jpeg';
+import writerimg from './image-from-rawpixel-id-3283064-jpeg.jpg';
+import readerimg  from './image-from-rawpixel-id-3286134-jpeg.jpg';
 
 const Blogs =  () => {
   return(
   <div className="page-item">
    <h1 className="header-properties"><strong>Blog 1: Overloaded to Optimistic: The need for some time alone</strong> </h1>
-   <div className="centerimg"><img className="smallimg" src={digiimg} alt="A computer displaying the time in a dimly lit room"></img>
+   <div className="centerimg"><img id="img1" src={digiimg} alt="A computer displaying the time in a dimly lit room"></img>
    <p> <em>Image By Julia Blanchet</em></p></div>
+    <hr/>
+    <p className="dateSub"><em>September 30th, 2022</em></p>
      <br/>
  <p> &emsp; &emsp; I am not a writer. At least, not at heart. Down to the bone, I have always 
    been a more logic-oriented person, and creativity was never a strong suit of 
@@ -206,8 +210,11 @@ const Blog2 = () => {
   return(
     <div className="page-item">
       <h1 className="header-properties"><strong>Blog 2: What Makes a Writer? </strong></h1>
-      <div className="centerimg"><img className="smallimg" src="" alt="image goes here. (when i put it here)"></img>
-      <p><em></em></p></div>
+      <div className="centerimg"><img className ="smallerwriterimg" src={writerimg} alt="a person writing on paper with coffee on desk."></img>
+      <p><em>an image by Green Chameleon</em></p>
+      </div>
+      <hr/>
+    <p className="dateSub"> <em>October 26th, 2022 </em> </p>
       <br/>
       <p>&emsp; &emsp;
 Writing is the act of pushing thoughts, ideas, and knowledge into a readable, storable format, whether that be on paper or digitally. 
@@ -246,6 +253,7 @@ use they own English”. Code meshing, according to young, is the idea of using 
   With code meshing, a writer doesn’t have to think about what type of big word they should use in order to convey feeling or to give a visual image of what the
   reader should see or think, they just have to use the devices given by other languages and dialects in order to achieve their goal. 
 </p>
+<br/>
 <p> &emsp; &emsp;
 A good example of code-meshing can be found in two other writers, Amy Tan, author and contributor to over 300+ articles and books, and Robin Kimmerer, who is not 
 a dedicated writer, but a Professor of Environmental and Forest biology. Tan often uses forms and grammatical devices from her mother’s form of English and her 
@@ -254,15 +262,22 @@ whatever she reads, but chooses to stick to the structure of speaking that she i
 better time writing in a similar structure while writing her articles and books, which she does by just making her writing simpler and easier to understand. 
 Although she has a major in English, she chooses not to write in a high-level, scholarly way. Instead, she chooses to stick to a simpler form of writing, so much 
 so that even her mother has a far better time reading her daughter's work compared to anything else(Tan). I have to say that I agree, after reading Tan’s 
-<em>Mother Tongue, </em> I appreciate her form of writing far more than other forms, because even though her work was long, it wasn’t difficult to comprehend 
+<em> Mother Tongue, </em> I appreciate her form of writing far more than other forms, because even though her work was long, it wasn’t difficult to comprehend 
 and understand. 
 </p>
+<br/>
 <p>&emsp; &emsp;
 Kimmerer is not a dedicated writer and author, but she still had knowledge and ideas to pass on, that knowledge being about how the Natives of America would 
 use special pronouns to refer to nature and animals, which I found to be interesting. She pointed out that animals and nature are often just referred to as 
 <em>it,</em> which dehumanizes them (Kimmerer). I must say that I agree, and like the idea of using native forms of pronouns and their use of language to view 
 nature as something other than it<em>,</em> give us as humans the ability to sympathize with nature as a whole, more. 
 </p>
+<br/>
+<br/>
+<div className="centerimg"><img className="smallerreaderimg" src={readerimg} alt="glasses on top of a book on a desk"></img>
+<p><em>by Dariusz Sankowski.</em></p></div>
+<br/>
+<h3><em> The power of language</em></h3>
 <p>&emsp; &emsp;
 While Code meshing is a good example of what <em>tools</em> a writer can use, what gives them the ability to write stories? For Amy Tan, she describes it 
 as a love for language, and a drive to create visuals and convey feelings to others (Tan). In short, it is a form of expression to her. She writes stories in 
@@ -270,6 +285,7 @@ order to make it so she can express certain feelings and images to those who rea
  this is something I had never truly thought about before. I have come up with my own ideas and stories in my head, and have had thoughts about giving these 
  stories to others through the form of writing, but have never truly committed to it. Is it this that holds me back from being a writer?
 </p>
+<br/>
 <p>&emsp; &emsp;
 I often don’t consider myself to be a writer, often because I see myself as a person who works in a field that involves a massive amount of <em>Standard </em>
 writing, i.e writing in english or some other language besides a programming one. Now I can say that I didn’t see myself as a person who works in a field of 
@@ -279,6 +295,7 @@ writing, but that is no longer the case. As I learned more about my own career p
    are more efficient than ways they have been created in the past. In a sense, it is similar to Tan’s definition of writing, a way of conveying ideas and visuals
     on how something can be used, and can be written.
 </p>
+<br/>
 <p>&emsp; &emsp;
 Writing has always been used as a form of communication, parallel to the way that we speak. Since the discovery of writing, humanity has been able to advance far
  beyond what was capable in the world just because ideas and thoughts were able to be stored for later use, allowing others to bounce off of whatever they find in
@@ -286,12 +303,27 @@ Writing has always been used as a form of communication, parallel to the way tha
    from prior civilizations and generations has been transcribed so that later generations could find it and use it as a basis for their own lives. It is writing 
    and language as a whole that has allowed humanity to grow to what it is now. In order to have writing, however, humanity needs writers.
 </p>
+<br/>
+<br/>
+<h3><em>To Conclude...</em></h3>
 <p>&emsp; &emsp;
 In my personal experience, I can say that I am a writer, since I have used writing and language as a tool in order to convey thoughts and ideas, and to communicate
  feelings and visuals of ideas I have come up with. So, What makes a writer? For me, it is someone who uses language and writing in a way that not only benefits 
  them, but also those who read their work. Writers are people who know how to use the tools and knowledge of language that is given to them to spread more 
  knowledge and ideas to those around them, and they do it not because they have to, but because they want to write, and love doing it.
 </p>
+<br/>
+<br/>
+<hr/>
+<h2 className="header-properties"><em> Works Cited </em></h2>
+<br/>
+<p>Kimmerer, R. (2020, July 28). Speaking of nature. Orion Magazine. Retrieved October 20, 2022, from https://orionmagazine.org/article/speaking-of-nature/ </p>
+<br/>
+  <p>Tan, A. (1990). Mother Tongue. The Threepenny Review, 43, 7–8. http://www.jstor.org/stable/4383908 </p>
+  <br/>
+  <p> Young, V. A. (2011). SHOULD WRITERS USE THEY OWN ENGLISH? In L. GREENFIELD & K. ROWAN (Eds.), Writing Centers and the New Racism: A Call for Sustainable
+     Dialogue and Change (pp. 61–72). University Press of Colorado. https://doi.org/10.2307/j.ctt4cgk6s.7</p>
+
     </div>
 
 

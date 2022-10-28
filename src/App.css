@@ -91,10 +91,6 @@ li{
  border-color: black;
  border-radius: 0px;
 }
-.smallimg{
- width:640px;
- height:400px;
-}
 .page-holder{
  display: grid;
  grid-template-columns: auto 70% auto ;
@@ -105,10 +101,21 @@ li{
   "footer footer footer"
   ;
 }
-
+#img1 {
+  width: 534px;
+  height: 354px;
+  @media only screen and (max-width:500px){
+    width:267px;
+    height:177px;
+  }
+}
 .header-properties{
  text-align: center;
  padding: 10px;
+}
+
+.dateSub{
+  color : lightslategray;
 }
 
 
@@ -170,4 +177,18 @@ color: white;
 
 .screwnavcolor{
   color:black;
+}
+
+.smallerwriterimg{
+  max-width:900px;
+  max-height:600px;
+  width:600px;
+  height:400px;
+  min-width:300px;
+  min-height: 200px
+}
+
+.smallerreaderimg{
+  width:600px;
+  height:450px;
 }
