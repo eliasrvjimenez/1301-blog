@@ -1,5 +1,5 @@
 import React from 'react';
-import { Nav, NavLink, NavMenu } 
+import { Nav, NavLink} 
   from "./NavBarElements";
 
 
@@ -22,7 +22,6 @@ const NavBar = () => {
         </NavLink>
         </div>
        </div>
-       
      </Nav>
  );
 };

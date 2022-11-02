@@ -1,3 +1,5 @@
+
+/* Default app stuff */
 .App {
   text-align: center;
   padding-top: 10vh;
@@ -42,88 +44,7 @@
   }
 }
 
-li{
- float:left;
- align-items:center;
-}
-
-.navbar-item{
- float: left;
- display:block;
- padding: 8px;
- background-color: #800000;
- cursor: pointer;
- height: 100%;
-}
-.navbar-item:hover{
- background-color: #65211C;
-}
-
-.footer{
- position:fixed;
- bottom: 0;
- width: 100%;
- height: 5vh;
- background: lightgray;
-}
-
-.signature{
- float: right;
- color: gray;
- padding: 8px;
- font-family: monospace;
-
-}
-
-
-.smallerimg{
- width:200px;
- height:200px;
-}
-.centerimg{
- display: flex;
- flex-direction:column;
- justify-content:center;
- align-items:center;
-
-}
-.giveitaborder{
- border-color: black;
- border-radius: 0px;
-}
-.page-holder{
- display: grid;
- grid-template-columns: auto 70% auto ;
- grid-template-rows: 75px auto 60px;
- grid-template-areas:
-  ". . ."
- ". main ."
-  "footer footer footer"
-  ;
-}
-#img1 {
-  width: 534px;
-  height: 354px;
-  @media only screen and (max-width:500px){
-    width:267px;
-    height:177px;
-  }
-}
-.header-properties{
- text-align: center;
- padding: 10px;
-}
-
-.dateSub{
-  color : lightslategray;
-}
-
-
-.page-item{
- grid-area: main;
-}
-
-
+/* NavBar Rules */
 .dropdown{
   float:left;
   overflow:hidden;
@@ -158,9 +79,6 @@ li{
   float: none;
   color: black
 }
-.dropdown-content:hover{
-
-}
 
 .dropdown:hover .dropdown-content{
   display:block;
@@ -171,24 +89,97 @@ color: white;
  align-items: center;
  text-decoration: none;
  padding: 0 1rem;
- cursor: pointer;
+ cursor: default;
  height: 100%;
+ width:100%;
 }
 
-.screwnavcolor{
-  color:black;
+li{
+  float:left;
+  align-items:center;
+ }
+ 
+ .navbar-item{
+  float: left;
+  display:block;
+  padding: 8px;
+  background-color: #800000;
+  cursor: pointer;
+  height: 100%;
+ }
+ .navbar-item:hover{
+  background-color: #65211C;
+ }
+ 
+
+
+/* Image Rules */
+.smallerimg{
+ width:300px;
+ height:300px;
 }
 
-.smallerwriterimg{
-  max-width:900px;
-  max-height:600px;
-  width:600px;
-  height:400px;
-  min-width:300px;
-  min-height: 200px
+.centerimg{
+ display: flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
 }
 
-.smallerreaderimg{
-  width:600px;
-  height:450px;
+.giveitaborder{
+ border-color: black;
+ border-radius: 0px;
 }
+
+/* Header Rules */
+.header-properties{
+  text-align: center;
+  padding: 10px;
+ }
+ 
+.dateSub{
+   color : lightslategray;
+ }
+
+/* Main Page Rules */
+.page-holder{
+ display: grid;
+ background: linear-gradient(lightgray,gray) no-repeat center center fixed;
+ min-height: 100%;
+ width: 100%;
+ height: auto;
+ position:relative;
+ grid-template-columns: auto 80% auto ;
+ grid-template-rows: 100px auto 60px;
+ grid-template-areas:
+ ". . ."
+ ". main ."
+ ". . ."
+  ;
+}
+
+
+.page-item{
+ grid-area: main;
+ background-color:white;
+padding:20px;
+ border-radius:10px;
+}
+
+ /* Footer Rules */
+.footer{
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+  height: 5vh;
+  background: lightgray;
+ }
+ 
+ .signature{
+  float: right;
+  color: gray;
+  padding: 8px;
+  font-family: monospace;
+ 
+ }
+ 
