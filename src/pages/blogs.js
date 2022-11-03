@@ -217,113 +217,158 @@ const Blog2 = () => {
     <p className="dateSub"> <em>October 26th, 2022 </em> </p>
       <br/>
       <p>&emsp; &emsp;
-Writing is the act of pushing thoughts, ideas, and knowledge into a readable, storable format, whether that be on paper or digitally. 
-The idea of writing is a concept known to almost all, but What about a writer, is the question I ask myself. If everyone can write, what 
-makes someone a true writer? Not just someone who can type or print words on to paper with a pencil, but someone who can create stories, 
-can share ideas and views, and can spread information to the public and the people around them. Those are things that a writer does, but it
- gives them the ability to do just that?
+      In an era that revolves around the use of technology and media to connect everyone to the rest of the world, there
+      are those who abuse their voices on the internet and push their thoughts and ideologies that if blindly followed by 
+      others, can be incredibly dangerous and to society as a whole. Most of this is done through the means of writing,
+      and it’s power to spread ideas and information, no matter if it is fact or fiction, to a greater audience of people.
+      Is it someone who went through years of rigorous work and thousands of dollars in order to get a piece of paper that 
+      states they are a writer? But what gives someone the status, or title, of writer? What allows them to be seen as a 
+      writer, someone who has a platform? Or is it something else, something like a desire to be seen and heard by others, 
+      to be given a voice in a world filled with voices?
 </p>
 <br/>
-<h3> <em> To Start, </em> </h3>
-<p>&emsp; &emsp;
-The first thing for me that comes to mind is their ability to use language, and take advantage of the many diverse forms of language there 
-are in the world. There are many multilingual people who are writers, and what makes them fantastic writers is their ability to use their 
-vast knowledge of their own language and other languages to give their stories more meaning, expression, and accessibility. Reading the 
-average piece of scholarly literature can be difficult for many people, not because it is written poorly or is grammatically incorrect, 
-but because the work often speaks in a way that can be unclear to the ones reading it, if they do not have the same vocabulary as the 
-ones who wrote it. Those with diverse backgrounds or knowledge of other languages often have the ability to see from the viewpoint of 
-their reader, and can tell what should be a part of their work, and what shouldn’t. 
-</p>
-<p>&emsp; &emsp;
-These abilities are what I consider to be tools that allow a writer to become an interpreter to their own knowledge, and to find a way to
- make it more accessible to all people, not just to people on their level of intelligence.  Some examples of tools are different language’s
-  abilities to show expression. The English language itself is not a bad standard, but it lacks the ability to often find a way to show expression
-   without using some random fifteen-letter word. Languages such as Spanish and French have expressions such as: Coup de grâce and Voilà in french; 
-   and Anteayer, meaning the day before yesterday, and No hay dos sin tres, which means that everything that happens twice happens again. For a lot of 
-   these simple expressions, a whole sentence of words is needed to show the same amount of expression in English.
-</p>
-<br/>
-<h3><em>Code-Meshing & Writing </em></h3>
-<p> &emsp; &emsp;
-The tools that I showed above are a good example of what Scholar Vershawn Ashanti Young calls <em>Code Meshing</em> in his piece “Should writers 
-use they own English”. Code meshing, according to young, is the idea of using different dialects and languages as a tool to show expression and bring
- more life to text and writing as a whole, as well as to bring more diversity to one's writing in general(Young). I personally like the idea of code meshing, 
- because it allows for more freedom when it comes to writing, rather than just writing in the standard, boring English format. Don’t get me wrong, I appreciate
-  the standard English format for writing and reading, it can just get incredibly dull after a certain point, not just for reading, but for writing as well. 
-  With code meshing, a writer doesn’t have to think about what type of big word they should use in order to convey feeling or to give a visual image of what the
-  reader should see or think, they just have to use the devices given by other languages and dialects in order to achieve their goal. 
-</p>
-<br/>
-<p> &emsp; &emsp;
-A good example of code-meshing can be found in two other writers, Amy Tan, author and contributor to over 300+ articles and books, and Robin Kimmerer, who is not 
-a dedicated writer, but a Professor of Environmental and Forest biology. Tan often uses forms and grammatical devices from her mother’s form of English and her 
-native tongue. Many find Tan’s mother’s form of English to be “broken”, but Tan knows that her mother is still able to understand the entirety of English and 
-whatever she reads, but chooses to stick to the structure of speaking that she is used to using in her native tongue. From this, Tan finds that she too has a 
-better time writing in a similar structure while writing her articles and books, which she does by just making her writing simpler and easier to understand. 
-Although she has a major in English, she chooses not to write in a high-level, scholarly way. Instead, she chooses to stick to a simpler form of writing, so much 
-so that even her mother has a far better time reading her daughter's work compared to anything else(Tan). I have to say that I agree, after reading Tan’s 
-<em> Mother Tongue, </em> I appreciate her form of writing far more than other forms, because even though her work was long, it wasn’t difficult to comprehend 
-and understand. 
-</p>
+<h2> <em> To Start, </em> </h2>
 <br/>
 <p>&emsp; &emsp;
-Kimmerer is not a dedicated writer and author, but she still had knowledge and ideas to pass on, that knowledge being about how the Natives of America would 
-use special pronouns to refer to nature and animals, which I found to be interesting. She pointed out that animals and nature are often just referred to as 
-<em>it,</em> which dehumanizes them (Kimmerer). I must say that I agree, and like the idea of using native forms of pronouns and their use of language to view 
-nature as something other than it<em>,</em> give us as humans the ability to sympathize with nature as a whole, more. 
+To answer that question, the question of how writers are supposed to write appears first. Different dialects and 
+languages are often looked down upon when it comes to writing because of how their language uses rhetorical devices 
+and grammatical rules. Stanley Fish, a distinguished author of many articles and a former professor of law at Florida 
+International University, and is a dean emeritus of the College of Liberal Arts and Sciences at University of 
+Illinois Chicago, wrote an opinion for the New York Times back in 2009, where he criticizes secondary schools for 
+failing to properly teach “Standard” english to their students, and forcing post-secondary schools and instructors to 
+clean up their mistakes. In his article, Fish (2009) says, 
+
+<div className="centeredQuote">
+<p><em>“And if students infected with the facile egalitarianism of soft multiculturalism declare, “I have a right to my own 
+language,” reply, “Yes , you do, and I am not here to take that language from you; I’m here to teach you another 
+one.” (Who could object to learning a second language?) And then get on with it” (p. 3). </em></p></div>
+
+According to Fish, to even have the right to call yourself a real writer, you need to be a master of all of the 
+formatting and grammatical rules of standard english, and that if you know any other dialect or forms of writing that 
+are not the standard, then you should learn standard english and stop using the other form. What Fish doesn’t 
+realize, however, is that doing this alienates a massive group of people from being able to join in the conversation 
+and intake the cesspool of information and ideas being spread around the world because they are not at a level of 
+education where they would be able to understand what people like Fish are even talking about when they read their 
+writing. It’s because there are people like Fish, who believe that you need to be on their level of standard English 
+knowledge and comprehension in order to hold the same status as them, and to even have a voice in the world of 
+writing. It’s because of views and ideas like this that allow people like Donald Trump to win presidency and control 
+over a world superpower because he has the knowledge to speak like a normal person to the people.
+
 </p>
 <br/>
+<br/>
+<h2><em> "Standard English"</em> in professional fields </h2>
+<br/>
+<p>&emsp; &emsp;
+When people in politics often speak and write a lot like Fish does in order to sound more “Professional” and 
+“Educated”, those that politicians are supposed to be serving are often left confused. They are left wondering what 
+these people in power are even doing to the country that they live in, because of one simple truth, not everyone is 
+a College graduate, and not everyone has full mastery over the rules and laws of standard English. This is what
+allows someone with no political experience, Donald Trump, to be exact, to run for the executive office of the 
+United states and win against a bunch of so-called professional and experienced politicians. Call Trump whatever you
+want, a racist, rapist, pedo, bigot who knows nothing about how to run a country. Most of that is true, but if there
+was one thing that needs to be acknowledged about the man, it’s his ability to appeal to a wider audience than any of 
+those politicians that ran against him.  The way he did that was simple, really. He spoke like a normal person. Not 
+even, to be honest, he sounded more like a child than anything. In the end, it didn’t matter. He won because people 
+were able to understand what he was saying and they were sick and tired of feeling like a bunch of morons because 
+they did not have the opportunity to pursue higher education. Donald Trump isn’t the only example of this type of 
+influence either, many news sources like “The Hill” and “Fox News” also have professional writers writing in simpler, 
+more understandable ways that millions of people listen to and read daily, whether or not the information is true or 
+false. 
+</p>
 <br/>
 <div className="centerimg"><img className="smallerreaderimg" src={readerimg} alt="glasses on top of a book on a desk"></img>
 <p><em>by Dariusz Sankowski.</em></p></div>
 <br/>
-<h3><em> The power of language</em></h3>
-<p>&emsp; &emsp;
-While Code meshing is a good example of what <em>tools</em> a writer can use, what gives them the ability to write stories? For Amy Tan, she describes it 
-as a love for language, and a drive to create visuals and convey feelings to others (Tan). In short, it is a form of expression to her. She writes stories in 
-order to make it so she can express certain feelings and images to those who read her work, as well as convey thoughts and ideas to them as well. I must say that
- this is something I had never truly thought about before. I have come up with my own ideas and stories in my head, and have had thoughts about giving these 
- stories to others through the form of writing, but have never truly committed to it. Is it this that holds me back from being a writer?
+<br/>
+<h2><em>Code-Meshing & Writing </em></h2>
+<br/>
+<p> &emsp; &emsp;
+So, for me at least, Fish’s view on what makes someone a writer is not correct. I am not alone in thinking that way 
+either, there are plenty of examples of people Criticizing Stanley Fish’s work and views on writing, most notably to 
+me is Vershawn Ashanti Young, another author and co-author of a handful of books and articles, as well as a Scholar 
+and researcher of African American Studies, more specifically the gender, performance, and language parts of it. In 
+Young’s(2011) chapter of <em>Writing Centers and the New Racism: A Call for Sustainable Dialogue and Change</em>, called 
+"SHOULD WRITERS USE THEY OWN ENGLISH?" Young uses the same quote as I, alongside several other quotes from the same 
+article to break down Fish’s idea. The main thing that interested me about Young’s piece in this book, is his idea 
+revolving around what can be referred to as Code Meshing, which is the use of several different languages and 
+dialects’ grammatical and rhetorical devices in order to better communicate and express one’s ideas through speaking 
+and writing.  Furthermore, Young goes on to emphasize the power of code meshing and even uses some examples from 
+politicians on twitter to show what Code meshing can do ( p. 67-70). The thing about code meshing is that it goes 
+completely against the idea of needing to have a strong knowledge of the English language and standard English format 
+for writing. 
 </p>
 <br/>
-<p>&emsp; &emsp;
-I often don’t consider myself to be a writer, often because I see myself as a person who works in a field that involves a massive amount of <em>Standard </em>
-writing, i.e writing in english or some other language besides a programming one. Now I can say that I didn’t see myself as a person who works in a field of 
-writing, but that is no longer the case. As I learned more about my own career path and interests I learned about how much writing truly goes into the process.
- While most people consider writing to be creating books and articles, for me, it will be writing <em>Documentation. </em>Yes, in Computer Science, Documentation
-  is everything. It is how you show others what your program–-your work even does. It is a way to pass on knowledge of tools and methods of creating programs that
-   are more efficient than ways they have been created in the past. In a sense, it is similar to Tan’s definition of writing, a way of conveying ideas and visuals
-    on how something can be used, and can be written.
+<p> &emsp; &emsp;
+There are plenty of writers out there that use code meshing throughout their writing, such as Young and Amy Tan, a 
+distinguished author of several books and articles as well as a holder of a Masters Degree in English and Linguistics 
+from San Jose State University. Tan, although having her masters, does not write in the style that people like Fish 
+would. Instead, she chooses to use what Young called Code-Meshing to write her stories. In her Article for The 
+Threepenny Review Mother Tongue, Tan describes why she does this, and says that she uses the English that she spoke 
+to her mother with because she wants to capture her mother’s  
+<div className="centeredQuote"><p>&emsp;“... intent, her passion, her imagery, the rhythm of her speech, and the nature 
+  of her thoughts”(Tan, 1990, p. 8). </p></div>
+  Tan uses her mother’s style of speaking to influence her own ways of speaking and writing, because she prefers the 
+abilities and tools she gains by using her mother’s version of english to express herself and provide imagery in her 
+way of speaking and writing. The thing is, Both Amy Tan and Stanley Fish are what people consider to be “Writers”, 
+even though their respective  styles of writing are vastly different from one another. This is most likely because of 
+the audience that they are targeting. While Stanley’s form of writing favors those who are also high-level scholars, 
+Tan’s writing style tends to be more in the favor of all readers.  
 </p>
 <br/>
+<br/>
+<h2><em>What Qualifies a Writer?</em></h2>
+<br/>
 <p>&emsp; &emsp;
-Writing has always been used as a form of communication, parallel to the way that we speak. Since the discovery of writing, humanity has been able to advance far
- beyond what was capable in the world just because ideas and thoughts were able to be stored for later use, allowing others to bounce off of whatever they find in
-  text in order to come up with thoughts and concepts on their own. Knowledge of civilizations has been allowed to grow and continue existing because the knowledge
-   from prior civilizations and generations has been transcribed so that later generations could find it and use it as a basis for their own lives. It is writing 
-   and language as a whole that has allowed humanity to grow to what it is now. In order to have writing, however, humanity needs writers.
+All that has done is add to the already asked question, not answer it. While Stanley Fish and Amy Tan are what most 
+consider to be “Qualified” writers, what allows them to be? I believe that I am getting close to the answer, and I 
+may have just found it. American Poet Ocean Voung is the recipient of several awards for their poems and pieces they 
+have written, but it was not always so easy for them. See, Ocean, being an immigrant from Vietnam, was not the best 
+at English in their early years, according to their article “Surrendering” in The New Yorker. In this article, Voung 
+describes how they were in an E.S.L class for their early years of teaching. And describes their experience with 
+writing a poem for the first time. Their teacher, after receiving their work, yells at them for plagiarizing even 
+though they did nothing of the sort, simply because the teacher assumed that because Voung had to take E.S.L classes 
+that they were not capable of writing their own poem (Voung, 2016). The teacher made an assumption that Voung was not 
+capable of writing poetry because of their background and knowledge of standard English, and called them a plagiarist 
+because of it. Although, after reading some pieces of the poetry Voung put in their article, it looks like something 
+I have never seen or heard before, so I would assume that it is original. To me, it sounds like the teacher saw 
+Voung's work as someone else's because of what they believe to be the capabilities of someone who does not know how 
+to read and write in standard English. Fish also believes that people cannot be considered proficient in English if 
+they do not know all of the structures and rules of Standard English, and clearly, using Voung’s and Tan’s pieces as 
+an Example, I have shown that Fish’s idea is not true. But if there aren’t limits on how people write, then what are 
+the limits on what makes people writers.  
 </p>
 <br/>
 <br/>
 <h3><em>To Conclude...</em></h3>
+<br/>
 <p>&emsp; &emsp;
-In my personal experience, I can say that I am a writer, since I have used writing and language as a tool in order to convey thoughts and ideas, and to communicate
- feelings and visuals of ideas I have come up with. So, What makes a writer? For me, it is someone who uses language and writing in a way that not only benefits 
- them, but also those who read their work. Writers are people who know how to use the tools and knowledge of language that is given to them to spread more 
- knowledge and ideas to those around them, and they do it not because they have to, but because they want to write, and love doing it.
+This is where I come to the conclusion that there are no rules to what makes someone a writer, and there is no solid 
+definition of what gives someone the title of writer. In the end, a Writer can truly be anybody that knows how to use 
+a pencil or computer to print letters onto either a piece of paper or a screen,  and it is up to whoever reads it to 
+decide whether or not the person who wrote that piece can be called a writer. As long as someone considers their work 
+to be that of a writer, then they are a writer. People like Fish and Trump can go around saying that those who don’t 
+use standard English are not Good writers or Professional writers, but that doesn’t change the fact that as long as 
+they have a way of communicating through printing words onto something for someone else to see, then they are a 
+writer.
 </p>
 <br/>
 <br/>
 <hr/>
 <h2 className="header-properties"><em> Works Cited </em></h2>
 <br/>
-<p>Kimmerer, R. (2020, July 28). Speaking of nature. Orion Magazine. Retrieved October 20, 2022, from https://orionmagazine.org/article/speaking-of-nature/ </p>
-<br/>
-  <p>Tan, A. (1990). Mother Tongue. The Threepenny Review, 43, 7–8. http://www.jstor.org/stable/4383908 </p>
-  <br/>
-  <p> Young, V. A. (2011). SHOULD WRITERS USE THEY OWN ENGLISH? In L. GREENFIELD & K. ROWAN (Eds.), Writing Centers and the New Racism: A Call for Sustainable
-     Dialogue and Change (pp. 61–72). University Press of Colorado. https://doi.org/10.2307/j.ctt4cgk6s.7</p>
+<p>Fish, S. (2009, September 7). What should colleges teach? Part 3. The New York Times. Accessed November 2, 2022, </p>
+  <p> &emsp;&emsp;from https://opinionator.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/.</p>
 
+<p>Tan, A. (1990). Mother Tongue. The Threepenny Review, 43, 7–8. http://www.jstor.org/stable/4383908</p>
+
+<p>Vuong, O. (2016, May 30). Immigrating into English. The New Yorker. Retrieved November 2, 2022, 
+<p> &emsp; &emsp;from https://www.newyorker.com/magazine/2016/06/06/ocean-vuong-immigrating-into-english </p>
+</p>
+<p>Young, V. A. (2011). SHOULD WRITERS USE THEY OWN ENGLISH? In L. GREENFIELD & K. ROWAN (Eds.), Writing Centers and the New Racism: 
+<p> &emsp; &emsp; A Call for Sustainable Dialogue and Change (pp. 61–72). University Press of Colorado. </p>
+  <p>&emsp;&emsp;https://doi.org/10.2307/j.ctt4cgk6s.7</p>
+</p>
     </div>
 
 

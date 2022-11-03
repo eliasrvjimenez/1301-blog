@@ -140,6 +140,10 @@ li{
 .dateSub{
    color : lightslategray;
  }
+ h2{
+  font-size: 20px;
+  color:#282c34;
+ }
 
 /* Main Page Rules */
 .page-holder{
@@ -166,6 +170,17 @@ padding:20px;
  border-radius:10px;
 }
 
+.centeredQuote{
+  margin: 0 auto;
+  text-align: center;
+  width: 80%;
+  height:auto;
+}
+p{
+  line-height: 2;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+}
  /* Footer Rules */
 .footer{
   position:fixed;
