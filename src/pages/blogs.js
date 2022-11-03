@@ -221,9 +221,10 @@ const Blog2 = () => {
       are those who abuse their voices on the internet and push their thoughts and ideologies that if blindly followed by 
       others, can be incredibly dangerous and to society as a whole. Most of this is done through the means of writing,
       and it’s power to spread ideas and information, no matter if it is fact or fiction, to a greater audience of people.
-      Is it someone who went through years of rigorous work and thousands of dollars in order to get a piece of paper that 
-      states they are a writer? But what gives someone the status, or title, of writer? What allows them to be seen as a 
-      writer, someone who has a platform? Or is it something else, something like a desire to be seen and heard by others, 
+      But what gives someone the status, or title, of writer? What allows them to be seen as a 
+      writer, someone who has a platform? Is it someone who went through years of rigorous work and thousands of 
+      dollars in order to get a piece of paper that states they are a writer?  
+      Or is it something else, something like a desire to be seen and heard by others, 
       to be given a voice in a world filled with voices?
 </p>
 <br/>
@@ -360,7 +361,8 @@ writer.
 <p>Fish, S. (2009, September 7). What should colleges teach? Part 3. The New York Times. Accessed November 2, 2022, </p>
   <p> &emsp;&emsp;from https://opinionator.blogs.nytimes.com/2009/09/07/what-should-colleges-teach-part-3/.</p>
 
-<p>Tan, A. (1990). Mother Tongue. The Threepenny Review, 43, 7–8. http://www.jstor.org/stable/4383908</p>
+<p>Tan, A. (1990). Mother Tongue. The Threepenny Review, 43, 7
+  –8. http://www.jstor.org/stable/4383908</p>
 
 <p>Vuong, O. (2016, May 30). Immigrating into English. The New Yorker. Retrieved November 2, 2022, 
 <p> &emsp; &emsp;from https://www.newyorker.com/magazine/2016/06/06/ocean-vuong-immigrating-into-english </p>
