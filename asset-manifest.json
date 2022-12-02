@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/1301-blog/static/css/main.39ad1860.css",
-    "main.js": "/1301-blog/static/js/main.f987f15b.js",
+    "main.css": "/1301-blog/static/css/main.193a3f25.css",
+    "main.js": "/1301-blog/static/js/main.6aff0e4b.js",
     "static/js/787.43b4739d.chunk.js": "/1301-blog/static/js/787.43b4739d.chunk.js",
     "static/media/image-from-rawpixel-id-3286134-jpeg.jpg": "/1301-blog/static/media/image-from-rawpixel-id-3286134-jpeg.9c4fd5422e500d6867d3.jpg",
     "static/media/faceimg.png": "/1301-blog/static/media/faceimg.01e6d1e4c35bf4e70b6b.png",
     "static/media/image-from-rawpixel-id-3283064-jpeg.jpg": "/1301-blog/static/media/image-from-rawpixel-id-3283064-jpeg.5bfb7480a0ca3b5c4391.jpg",
     "static/media/negative-space-digital-clock-desk-notepad-plant-julian-bachlet-thumb-1.jpeg": "/1301-blog/static/media/negative-space-digital-clock-desk-notepad-plant-julian-bachlet-thumb-1.1d1797fd008438535249.jpeg",
+    "static/media/relaxing-man.jpg": "/1301-blog/static/media/relaxing-man.16bf2eee1b95641b0806.jpg",
     "index.html": "/1301-blog/index.html",
-    "main.39ad1860.css.map": "/1301-blog/static/css/main.39ad1860.css.map",
-    "main.f987f15b.js.map": "/1301-blog/static/js/main.f987f15b.js.map",
+    "main.193a3f25.css.map": "/1301-blog/static/css/main.193a3f25.css.map",
+    "main.6aff0e4b.js.map": "/1301-blog/static/js/main.6aff0e4b.js.map",
     "787.43b4739d.chunk.js.map": "/1301-blog/static/js/787.43b4739d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39ad1860.css",
-    "static/js/main.f987f15b.js"
+    "static/css/main.193a3f25.css",
+    "static/js/main.6aff0e4b.js"
   ]
 }
