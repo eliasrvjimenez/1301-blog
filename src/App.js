@@ -18,6 +18,7 @@ function App() {
    <div className="page-holder">
 
    <Routes>
+     <Route path='/1301-blog' element={<Home />} />
      <Route path='/1301-blog/home' exact element={<Home />} />
      <Route path='/1301-blog/blogs' element={<BlogPage/>} />
      <Route path='/1301-blog/overloaded-to-optimistic' element={<Blog1/>} />
