@@ -6,20 +6,24 @@ import { Nav, NavLink}
 const NavBar = () => {
  return (
      <Nav>
-        <NavLink to="/1301-blog" activeStyle>
+        <NavLink to="/1301-blog/home" activeStyle>
           Home
       </NavLink>
       <div className="dropdown">
-        <button className="dropbutton navElement"> 
-        Blogs
-        </button>
+         <NavLink to="/1301-blog/blogs" activeStyle>
+        Blogs 
+         </NavLink>
        <div className="dropdown-content">
-        <NavLink className="screwnavcolor" to="/blog-1" activeStyle>
-          Blog 1: Overloaded to Optimistic
+        <NavLink className="screwnavcolor" to="/1301-blog/overloaded-to-optimistic" activeStyle>
+          Overloaded to Optimistic
           </NavLink>
-          <NavLink className="screwnavcolor" to="/blog-2" activeStyle>
-        Blog 2: What make a Writer?
+          <NavLink className="screwnavcolor" to="/1301-blog/what-makes-a-writer" activeStyle>
+          What make a Writer?
         </NavLink>
+        <p>The Choice of Solitude over Socialization </p>
+        <NavLink className="screwnavcolor" to="/1301-blog/the-choice-of-solitude-over-socialization-intro" activeStyle>
+          Introduction
+          </NavLink>
         </div>
        </div>
      </Nav>

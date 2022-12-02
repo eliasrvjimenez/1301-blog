@@ -3,7 +3,7 @@ import digiimg from './negative-space-digital-clock-desk-notepad-plant-julian-ba
 import writerimg from './image-from-rawpixel-id-3283064-jpeg.jpg';
 import readerimg  from './image-from-rawpixel-id-3286134-jpeg.jpg';
 
-const Blogs =  () => {
+const Blog1 =  () => {
   return(
   <div className="page-item">
    <h1 className="header-properties"><strong>Blog 1: Overloaded to Optimistic: The need for some time alone</strong> </h1>
@@ -379,5 +379,5 @@ writer.
   );
 };
 
-export {Blogs,Blog2}
+export {Blog1,Blog2}
 
