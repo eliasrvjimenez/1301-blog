@@ -47,11 +47,8 @@ To put it plainly, my youngest sister has what is known as ‘Severe ASD’, but
 <br />
   <p> &emsp; &emsp; 
    To top it all off, we did not live in the city that my sister and I went to
- school in. We lived in the city of Savage, a good 10 to15 mile drive everyday 
- to make it to my school, which was Olson Middle School in Bloomington. If you
- want, look up Lone Oak Drive in Savage, then chart the path to Olson Middle 
- School. The fastest it takes to get to school by car is 19 minutes (on a good
-  day). Most days spent getting to school were during the winter, and there were 
+ school in. We lived in the city of Savage, a good 10 to 15 mile drive everyday 
+ to make it to my school.  Most days spent getting to school were during the winter, and there were 
  days where we wouldn’t go to school at all because of how bad the weather was. 
   That should give enough of an idea as to why it was a bit harder than usual to 
  schedule hangouts or playdates with friends. It wasn’t all bad, though. The 
