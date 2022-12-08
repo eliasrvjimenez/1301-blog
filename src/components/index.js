@@ -24,6 +24,12 @@ const NavBar = () => {
         <NavLink className="screwnavcolor" to="/1301-blog/the-choice-of-solitude-over-socialization-intro" activeStyle>
           Introduction
           </NavLink>
+        <NavLink className="screwnavcolor" to="/1301-blog/the-choice-of-solitude-over-socialization-introvertedness-in-active-environments" activeStyle>
+          Introvertedness in Active Environments
+        </NavLink>
+        <NavLink className="screwnavcolor" to='/1301-blog/the-choice-of-solitude-over-socialization-solitude-and-productivity' activeStyle>
+          Solitude and Productivity
+          </NavLink>
         </div>
        </div>
      </Nav>

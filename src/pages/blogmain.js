@@ -50,6 +50,27 @@ const BlogPage = () => {
                 </p>
             </Link>
             </div>
+            <div className="card-link"><Link to="/1301-blog/the-choice-of-solitude-over-socialization-introvertedness-in-active-environments">
+            <h2> Introvertedness in Active Environments</h2>
+            <p className="dateSub"> <em> December 8th, 2022</em></p>
+             <p><em>  When it comes to being introverted, or preferring time alone in order to fully process thoughts or ideas,
+                 the thought of having to go to a class where the activities and lesson plans are spontaneous with participation
+                  and discussion being requested before one has the chance to fully process what they just learned can be uncomfortable 
+                  for the introverted...</em>
+                </p>
+            </Link>
+            </div>
+            <div className="card-link"><Link to="/1301-blog/the-choice-of-solitude-over-socialization-solitude-and-productivity">
+            <h2> Solitude and Productivity</h2>
+            <p className="dateSub"> <em> December 8th, 2022</em></p>
+             <p><em>  One of the main reasons that I myself enjoy time alone is because it allows me to find an almost flow-like 
+                state where I can focus purely on any projects or assignments I need to get done. Writing this very post is also
+                 an example of why I enjoy time alone. Throughout this week, my time has been filled with projects, homework, and 
+                 studying for other classes with others. And while this does help me better understand the material in those courses
+                 , it doesn’t help me get anything done efficiently enough to work on this one...</em>
+                </p>
+            </Link>
+            </div>
         </div>
     );
 };

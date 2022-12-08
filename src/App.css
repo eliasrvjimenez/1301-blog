@@ -122,6 +122,12 @@ li{
 .header-properties{
   text-align: center;
   padding: 10px;
+  font-size: 20px;
+ }
+
+ .project3header{
+  font-size: 20px;
+  margin-bottom: 5px;
  }
  
 .dateSub{
@@ -148,6 +154,7 @@ li{
 }
 .page-holder{
  display: grid;
+ font-family:'Courier', Courier, monospace;
  background: linear-gradient(lightgray,gray) no-repeat center center fixed;
  min-height: 100%;
  width: 100%;
@@ -178,7 +185,7 @@ padding:20px;
 }
 p{
   line-height: 2;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 500;
   font-size: 18px;
 }
  /* Footer Rules */
