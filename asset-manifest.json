@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/1301-blog/static/css/main.193a3f25.css",
-    "main.js": "/1301-blog/static/js/main.d3fcffdd.js",
+    "main.css": "/1301-blog/static/css/main.32aa87d9.css",
+    "main.js": "/1301-blog/static/js/main.34ca02d3.js",
     "static/js/787.43b4739d.chunk.js": "/1301-blog/static/js/787.43b4739d.chunk.js",
     "static/media/image-from-rawpixel-id-3286134-jpeg.jpg": "/1301-blog/static/media/image-from-rawpixel-id-3286134-jpeg.9c4fd5422e500d6867d3.jpg",
+    "static/media/cubicles.jpg": "/1301-blog/static/media/cubicles.0cb80efc211e389c0bb1.jpg",
     "static/media/faceimg.png": "/1301-blog/static/media/faceimg.01e6d1e4c35bf4e70b6b.png",
     "static/media/image-from-rawpixel-id-3283064-jpeg.jpg": "/1301-blog/static/media/image-from-rawpixel-id-3283064-jpeg.5bfb7480a0ca3b5c4391.jpg",
+    "static/media/activeclass.jpg": "/1301-blog/static/media/activeclass.714bad7856015d6d12ce.jpg",
+    "static/media/busy-office.jpg": "/1301-blog/static/media/busy-office.99209959c3b3c187ec6c.jpg",
     "static/media/negative-space-digital-clock-desk-notepad-plant-julian-bachlet-thumb-1.jpeg": "/1301-blog/static/media/negative-space-digital-clock-desk-notepad-plant-julian-bachlet-thumb-1.1d1797fd008438535249.jpeg",
     "static/media/relaxing-man.jpg": "/1301-blog/static/media/relaxing-man.16bf2eee1b95641b0806.jpg",
     "index.html": "/1301-blog/index.html",
-    "main.193a3f25.css.map": "/1301-blog/static/css/main.193a3f25.css.map",
-    "main.d3fcffdd.js.map": "/1301-blog/static/js/main.d3fcffdd.js.map",
+    "main.32aa87d9.css.map": "/1301-blog/static/css/main.32aa87d9.css.map",
+    "main.34ca02d3.js.map": "/1301-blog/static/js/main.34ca02d3.js.map",
     "787.43b4739d.chunk.js.map": "/1301-blog/static/js/787.43b4739d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.193a3f25.css",
-    "static/js/main.d3fcffdd.js"
+    "static/css/main.32aa87d9.css",
+    "static/js/main.34ca02d3.js"
   ]
 }
