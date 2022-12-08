@@ -1,10 +1,11 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
 const BlogPage = () => {
     return(
         <div className="page-item">
             <h1 className="h1blogpage"> All Blogs: </h1>
-            <div className="card-link"><a href="/1301-blog/overloaded-to-optimistic">
+            <div className="card-link"><Link to="/1301-blog/overloaded-to-optimistic">
             <h2> Overloaded to Optimistic </h2>
             <p className="dateSub"> <em>September 30th, 2022 </em></p>
              <p><em>   I am not a writer. At least, not at heart. Down to the bone, I have always been a more logic-oriented person, 
@@ -14,10 +15,10 @@ const BlogPage = () => {
              and visualize it well. Writers can create worlds from nothing, sprawling their ideas onto the page with ease. That is 
              something that I cannot do... </em>
                 </p>
-            </a>
+            </Link>
             </div>
             <br />
-            <div className="card-link"><a href="/1301-blog/what-makes-a-writer">
+            <div className="card-link"><Link to="/1301-blog/what-makes-a-writer">
             <h2> What Makes a Writer? </h2>
             <p className="dateSub"> <em> October 26th, 2022  </em></p>
              <p><em>  In an era that revolves around the use of technology and media to connect everyone to the rest of the world,
@@ -29,12 +30,12 @@ const BlogPage = () => {
                     paper that states they are a writer? Or is it something else, something like a desire to be seen and heard by others,
                      to be given a voice in a world filled with voices....</em>
                 </p>
-            </a>
+            </Link>
             </div>
             <br/>
             <br/>
             <h2 className="h2blogpage"> The Choice of Solitude over Socialization in College</h2>
-            <div className="card-link"><a href="/1301-blog/the-choice-of-solitude-over-socialization-intro">
+            <div className="card-link"><Link to="/1301-blog/the-choice-of-solitude-over-socialization-intro">
             <h2> Introduction</h2>
             <p className="dateSub"> <em> November 30th, 2022</em></p>
              <p><em>  When it comes to the lifestyle of college students, most people tend to generalize the idea that 
@@ -47,7 +48,7 @@ const BlogPage = () => {
                  it was also because I didn’t want to spend the extra money that comes with living on campus, and also because I 
                  wanted to keep my privacy, and my ability to disconnect myself from the rest of campus.....</em>
                 </p>
-            </a>
+            </Link>
             </div>
         </div>
     );
