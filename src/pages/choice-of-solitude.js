@@ -3,6 +3,7 @@ import relaxingman from './relaxing-man.jpg';
 import activeClass from './activeclass.jpg';
 import busyoffice from './busy-office.jpg';
 import cubicles from './cubicles.jpg';
+import meeting from './Staff_meeting.jpg';
 
 const Intro = () => {
     return (
@@ -154,7 +155,7 @@ const Part2 = () => {
                 and come up with ideas or solutions to projects and assignments, rather than having to constantly come up with solutions
                 or questions right away.
             </p>
-            <br/>
+            <br />
             <hr />
             <h2> Work Cited </h2>
             <br />
@@ -175,67 +176,197 @@ const Part3 = () => {
             <br />
             <br />
             <p> &emsp; &emsp; One of the main reasons that I myself enjoy time alone is because it allows me to find an
-                 almost flow-like state where I can focus purely on any projects or assignments I need to get done. Writing 
-                 this very post is also an example of why I enjoy time alone. Throughout this week, my time has been filled 
-                 with projects, homework, and studying for other classes with others. And while this does help me better understand 
-                 the material in those courses, it doesn’t help me get anything done efficiently enough to work on this one.
+                almost flow-like state where I can focus purely on any projects or assignments I need to get done. Writing
+                this very post is also an example of why I enjoy time alone. Throughout this week, my time has been filled
+                with projects, homework, and studying for other classes with others. And while this does help me better understand
+                the material in those courses, it doesn’t help me get anything done efficiently enough to work on this one.
             </p>
-            <br/>
-            <p> &emsp; &emsp; I find that dedicating one’s day almost entirely to themselves, without trying to actively contact others 
+            <br />
+            <p> &emsp; &emsp; I find that dedicating one’s day almost entirely to themselves, without trying to actively contact others
                 (But responding, if need be), is the best way to make sure that productivity and efficiency are at their max. This may
-                 make me sound very introverted, but I do not see myself as a true introvert or an asocial person. I do believe that I 
-                 have some traits of introvertedness, and I often take a longer time to understand topics, but once I do, I get a much 
-                 stronger sense of understanding, and that process is faster when I am left to figure it out myself. One thing I do believe
-                  I possess, however, is the ability of dispositional autonomy. Dispositional Autonomy in a person describes how they 
-                  regulate their emotions and behavior, in this sense it is, for the most part, an almost automated behavior. 
+                make me sound very introverted, but I do not see myself as a true introvert or an asocial person. I do believe that I
+                have some traits of introvertedness, and I often take a longer time to understand topics, but once I do, I get a much
+                stronger sense of understanding, and that process is faster when I am left to figure it out myself. One thing I do believe
+                I possess, however, is the ability of dispositional autonomy. Dispositional Autonomy in a person describes how they
+                regulate their emotions and behavior, in this sense it is, for the most part, an almost automated behavior.
             </p>
             <br />
             <p> &emsp; &emsp;According to a study tracing the association between introvertedness, dispositional autonomy, and Solitude
-                 by Thuy-vy Nguyen, Netta Weinstein, and Richard Ryan, Those with dispositional autonomy traits tend to actually desire
-                  Solitude because of the benefits that come from being able to dedicate one’s time to whatever they feel necessary. 
-                  While being an introvert correlates to a preference in being alone over in social situations, it doesn’t necessarily 
-                  mean that a person desires to be alone (Nguyen et Al, 2018). 
+                by Thuy-vy Nguyen, Netta Weinstein, and Richard Ryan, Those with dispositional autonomy traits tend to actually desire
+                Solitude because of the benefits that come from being able to dedicate one’s time to whatever they feel necessary.
+                While being an introvert correlates to a preference in being alone over in social situations, it doesn’t necessarily
+                mean that a person desires to be alone (Nguyen et Al, 2018).
             </p>
             <br />
-            <p> &emsp; &emsp; Wanting to be alone doesn’t immediately make someone an introvert or someone who is asocial, 
-                but those who are introverted and asocial tend to prefer the time alone, because of how they process information 
+            <p> &emsp; &emsp; Wanting to be alone doesn’t immediately make someone an introvert or someone who is asocial,
+                but those who are introverted and asocial tend to prefer the time alone, because of how they process information
                 and expend energy in social situations, much like I said in my last post. Modern College Curriculums and courses
-                 tend to be taking the approach of placing its students into active environments, where everyone is instructed to
-                  interact with those around them, even if it doesn’t make them comfortable because that’s what happens in the average
-                   corporate job.
+                tend to be taking the approach of placing its students into active environments, where everyone is instructed to
+                interact with those around them, even if it doesn’t make them comfortable because that’s what happens in the average
+                corporate job.
             </p>
             <br />
             <br />
             <div className="centerimg"><img src={cubicles} alt="Workers in an office at their desks." />
-            <p> From hippopx.com </p>
+                <p> From hippopx.com </p>
             </div>
             <br />
             <br />
             <p> &emsp; &emsp; But corporate jobs would benefit heavily from allowing their workers to spend more time to themselves.
-                 One thing that needs to be understood about Dispositional Autonomy is the Autonomy part of it, and how those with the
-                  traits of someone with Dispositional Autonomy have the ability to go through life with their emotions and behaviors put 
-                  in check Autonomously, which also means that their work can be done autonomously. Something that younger people or people
-                   who haven’t held office jobs forget is that working in an office isn’t always cooperation between one or more employees.
-                    Even if that takes up a good amount of the time in the office, there is still the need for workers to get work done 
-                    independently from everyone else, and If a worker is trying to get their tasks or projects done and finds themselves
-                     getting interrupted by other coworkers a lot, they aren’t going to get anything done. 
+                One thing that needs to be understood about Dispositional Autonomy is the Autonomy part of it, and how those with the
+                traits of someone with Dispositional Autonomy have the ability to go through life with their emotions and behaviors put
+                in check Autonomously, which also means that their work can be done autonomously. Something that younger people or people
+                who haven’t held office jobs forget is that working in an office isn’t always cooperation between one or more employees.
+                Even if that takes up a good amount of the time in the office, there is still the need for workers to get work done
+                independently from everyone else, and If a worker is trying to get their tasks or projects done and finds themselves
+                getting interrupted by other coworkers a lot, they aren’t going to get anything done.
             </p>
             <br />
-            <p> &emsp; &emsp; 
-	            Workers need the time to get things done without their manager or their supervisor constantly bothering them by piling on more work,
+            <p> &emsp; &emsp;
+                Workers need the time to get things done without their manager or their supervisor constantly bothering them by piling on more work,
                 or removing them from their workspace to do something else with them or another employee. Giving those the time to work autonomously,
                 without someone getting in their way, would boost the performance and productivity of the workers, just because they were left alone.
             </p>
             <br />
             <hr />
             <br />
-        <h2> Work Cited </h2>
-        <ul> 
-            <li>Nguyen, T.-vy T., Weinstein, N., & Ryan, R. (2018). Who enjoys solitude? autonomous functioning (but not introversion) predicts self-determined motivation (but not preference) for solitude. PLoS One, 17(5), 1–18. https://doi.org/10.31234/osf.io/sjcwg </li>
-        </ul>
-            
+            <h2> Work Cited </h2>
+            <ul>
+                <li>Nguyen, T.-vy T., Weinstein, N., & Ryan, R. (2018). Who enjoys solitude? autonomous functioning (but not introversion) predicts self-determined motivation (but not preference) for solitude. PLoS One, 17(5), 1–18. https://doi.org/10.31234/osf.io/sjcwg </li>
+            </ul>
+
         </div>
     )
 }
 
-export { Intro, Part2, Part3 };
+const Part4 = () => {
+    return (
+        <div className="page-item">
+            <h1 className="project3header"> Introverts in the Workplace </h1>
+            <hr />
+            <p className="dateSub"> December 12th, 2022</p>
+            <br />
+            <br />
+            <p> 
+                &emsp; &emsp; As a continuation of the last blogpost, there is more to giving people the time they need alone and
+                their ability to be productive. A person’s ability to be productive when they are alone can also be affected by how
+                introverted or extroverted they are. While companies often search for individuals who are more extroverted over those
+                who are introverted because of their charisma or communication skills, Introverts are often able to handle different
+                types of workloads better than those who are extroverted.</p>
+            <br />
+            <p> 
+                &emsp; &emsp; In a Study conducted by Luz-Eugenia Cox-Fuenzalida, Amanda Angie, Sheri Holloway, and Laura Sohl on the task performance of
+                those who are considered to be introverted versus extroverted individuals, the group found that in a 48 minute time span, in the last 32
+                minutes of the test it was found that Introverted individuals were better at maintaining their pace and focus on their work far better than
+                those who were extroverted. Although in the first 16 minutes of the test both groups were about the same performance wise, introverted individuals
+                managed to have a better hold on their ability to focus compared to extroverted individuals, whose brain activity dropped significantly, to
+                approximately 42%, compared to the introverted group’s brain activity, which dropped by a much smaller margin than the extroverted group, to about
+                58% (Cox-Fuenzalida et Al, 2006). </p>
+            <br />
+            <p> 
+                &emsp; &emsp; This study shows that those who are introverted tend to have a much better time getting what most consider to be menial tasks done
+                compared to extroverted individuals. I’m not saying that this makes introverted individuals way better than extroverted individuals when it comes
+                to working, but they should be acknowledged far more in the workplace and have their needs accommodated for better than they currently are. </p>
+
+            <br />
+            <p> 
+                &emsp; &emsp; The thing about being an introvert in the workplace, however, is that these accommodations are unlikely to ever come. The only way
+                for introverts to be able to get the recognition they deserve is to do things that are more outside of their nature, and are often considered more
+                extroverted activities or actions. Franchise owner Chastity Heyward wrote a Forbes article about how introverted employees are often overlooked
+                compared to the extroverted employees, and gives tips on how introverted employees can gain more recognition, such as being more public with their
+                achievements as well as stepping out of their comfort zone and putting themselves out there more (Heyward, 2021).
+            </p>
+            <br />
+            <br />
+            <div className="centerimg"><img src={meeting} alt="Staff holding a meeting in an office" />
+                <p> by Robert Scoble </p>
+            </div>
+            <br />
+            <br />
+            <p>
+                &emsp; &emsp; Although these go against what most introverts are alright with, she does also mention a couple of other tips that are skills introverts already have,
+                such as listening in meetings much more, rather than always talking. Since I have already stated that introverts often take more time to internally digest information,
+                but are often far more understanding and comprehend said information better than others, this is one skill that makes sense for introverted employees.
+            </p>
+
+            <br />
+
+            <p>
+                &emsp; &emsp; All in all, introverted employees are still going to be overlooked by their managers and bosses until they start to act more like extroverts, which in my opinion is
+                something that should be changed by those who hold the higher-up positions. If they were to do a better job at actually paying attention to those who put in the extra effort
+                and work to get the job done, they would have a better idea of who is doing better than the rest in their company, and give those employees better recognition
+                and respect, rather than just paying attention to the employee that is the loudest or interacts with them the most.
+            </p>
+            <br />
+            <br />
+            <hr/>
+            <h2> Work Cited </h2>
+            <br />
+            <ul>
+                <li> Cox-Fuenzalida, L.-E., Angie, A., Holloway, S., & Sohl, L. (2006). Extraversion and task performance: A fresh look through the workload history lens. Journal of Research in Personality, 40(4), 432–439. https://doi-org.ezp3.lib.umn.edu/10.1016/j.jrp.2005.02.003 </li>
+                <br />
+                <li> Heyward, C. (2021, August 13). Council post: How introverts can make an impact in their workplaces. Forbes. Retrieved December 12, 2022, from https://www.forbes.com/sites/forbesbusinesscouncil/2021/08/13/how-introverts-can-make-an-impact-in-their-workplaces/?sh=7af8b9374f0c</li>
+                </ul>
+        </div>
+    )
+}
+
+const Conclusion = () =>{
+    return(
+        <div className="page-item">
+            <h1 className="project3header"> The Relationship between College and the Workplace </h1>
+            <hr/>
+            <p className='dateSub'>December 14th, 2022</p>
+            <br />
+            <br />
+            <p> &emsp; &emsp; While most of my posts up until now have focused more on the relationship between solitude, introvertedness, and the workplace,
+                 there is a clear tie to college life as well. In the workplace, those who chose to be extroverted get more recognition and thus gain
+                  more from their work experience as a whole, since they interact with their co-workers and higher ups more than those who are 
+                  introverted, or try to work in solitude more than others. The same could be said about those who are in college. Students who are
+                   more extroverted tend to get along better with their peers, and are more likely and willing to reach out to their professors in order
+                    to gain more knowledge and experience or to just get to know who is teaching them better. This is something that introverted 
+                    students and those who prefer solitude tend to not do. 
+            </p>
+            <br />
+            <p>
+                &emsp; &emsp; But that doesn’t mean that introverted students and those who prefer solitude don’t have a way of reaching out and communicating 
+                with the people around them, they just do it differently or don’t do it as much as others do. As I explained before, and as several
+                 others such as Susan Cain or Richard Green and their fellow researchers described, introverted individuals process information more
+                  internally and intensely than extroverted individuals(Cain, 2012)(Green et Al, 2019). I believe that this also means they are often 
+                  better at expressing themselves and the knowledge they have. It’s because of their ability to internally process that leads me to also
+                   believe that the way they communicate with other people is more planned out and thought about prior to the conversation than most 
+                   other people, and communicate with their professors and peers in different, more scholarly ways as well.
+            </p>
+            <br />
+            <p> 
+                &emsp; &emsp; I prefer solitude for a similar reason to this. I do not want to spend a lot of time getting to know everyone I meet here in the 
+                U because I am not going to know them for very long. But If I can make some valuable connections to me, and use those friendships
+                 and connections to network out to places that will help me achieve my goals, then that is what I plan to do. In order to reach 
+                 those goals, however, I need to do more than just know people. I also need to have the knowledge and experience to say that I 
+                 can be placed in a position where I can attain my goal. In order to do that, I can’t spend all of my time socializing with others, 
+                 and I’d prefer to spend as little time as possible with other people when I have things I need to get done. This doesn’t mean that
+                  I don’t spend any time with people at all, and I enjoy the time I spend with my friends more the less I see them. I still need to
+                   spend time on my own, though, and I do.
+            </p>
+            <br />
+            <p> 
+                &emsp; &emsp; I understand that a lot of people, such as a fair amount of my friends and family, would say that spending too much time
+                 alone in college is a waste of the college experience, and I admit, It is a bit of a waste, but so is wasting to much time with other
+                  people rather than focusing on the classes I’m pouring thousands of dollars and hours into. Utilizing what little time I’ve been given
+                   here at the U will be key to how my future pans out. And don’t forget that the real reason most people attend college, it’s to get a
+                    job and have a stable future and to make sure that I get the most out of this place and obtain that future, I need to stay focused.
+                     And the best way to do that, in my opinion, is to be alone.
+            </p>
+            <br />
+            <br />
+            <hr />
+            <h2> Work Cited </h2>
+            <ul>
+                <li> Cain, S.“Tedtalks: Susan Cain--the power of introverts”.(2012). TED. Retrieved November 21, 2022, from https://www.ted.com/talks/susan_cain_the_power_of_introverts/transcript?language=en. </li>
+                <br />
+                <li>Green, R. L., Milacci, F., & Richards, J. (2019). Breaking the Silence: A Phenomenological Study of Introverted Undergraduate Students’ Experiences in an Active Learning English Classroom. Journal of Ethnographic & Qualitative Research, 14(1), 12–24. </li>
+                </ul>
+            </div>
+    )
+}
+export { Intro, Part2, Part3, Part4, Conclusion };

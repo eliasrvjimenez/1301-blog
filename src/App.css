@@ -80,7 +80,9 @@ color: white;
  height: 100%;
  width:100%;
 }
-
+.centeredtext{
+  text-align: center;
+}
 li{
   float:left;
   align-items:center;

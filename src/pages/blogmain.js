@@ -71,6 +71,26 @@ const BlogPage = () => {
                 </p>
             </Link>
             </div>
+            <div className="card-link"><Link to="/1301-blog/the-choice-of-solitude-over-socialization-introverts-in-the-workplace">
+                <h2> Introverts in the Workplace </h2>
+                <p className="dateSub"><em> December 12th, 2022 </em></p> 
+                <p> <em>As a continuation of the last blogpost, there is more to giving people the time they need alone and
+                their ability to be productive. A person’s ability to be productive when they are alone can also be affected by how
+                introverted or extroverted they are. While companies often search for individuals who are more extroverted over those
+                who are introverted because of their charisma or communication skills, Introverts are often able to handle different
+                types of workloads better than those who are extroverted.</em></p>
+                </Link>
+                </div>
+            <div className="card-link"><Link to="/1301-blog/the-choice-of-solitude-over-socialization-conclusion">
+                <h2> The Relationship between College and the Workplace </h2>
+                <p className="dateSub"><em> December 14th, 2022 </em></p>
+                <p><em> While most of my posts up until now have focused more on the relationship between solitude, introvertedness, 
+                    and the workplace, there is a clear tie to college life as well. In the workplace, those who chose to be extroverted get 
+                    more recognition and thus gain more from their work experience as a whole, since they interact with their co-workers and 
+                    higher ups more than those who are introverted, or try to work in solitude more than others. The same could be said about 
+                    those who are in college...</em></p>
+                </Link>
+                </div>
         </div>
     );
 };
